@@ -13,7 +13,7 @@ Homepage: https://github.com/linuxdeepin/go-x11-client
 XS-Go-Import-Path: github.com/linuxdeepin/go-x11-client
 Testsuite: autopkgtest-pkg-go
 
-Package: golang-github-linuxdeepin-go-x11-client-dev
+Package: golang-github-lingmo-go-x11-client-dev
 Architecture: all
 Depends: ${shlibs:Depends},
          ${misc:Depends},

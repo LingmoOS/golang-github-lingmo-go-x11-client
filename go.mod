@@ -3,7 +3,7 @@ module go-x11-client
 go 1.18
 
 require (
-	github.com/linuxdeepin/go-lib v0.0.0-20240105075242-dddda54ea9f0
+	github.com/LingmoOS/golang-github-lingmo-go-lib v0.0.0-20240105075242-dddda54ea9f0
 	github.com/linuxdeepin/go-x11-client v0.0.0-20240415051504-c8e43d028ff9
 	github.com/stretchr/testify v1.9.0
 	golang.org/x/text v0.14.0
